@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 10e8308bf816a4e498c4cd9452187df2
+timeCreated: 1433083640
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sci_Fi_Interface_Spritesheet-01_0
+    21300002: Sci_Fi_Interface_Spritesheet-01_1
+    21300004: Sci_Fi_Interface_Spritesheet-01_2
+    21300006: Sci_Fi_Interface_Spritesheet-01_3
+    21300008: Sci_Fi_Interface_Spritesheet-01_4
+    21300010: Sci_Fi_Interface_Spritesheet-01_5
+    21300012: Sci_Fi_Interface_Spritesheet-01_6
+    21300014: Sci_Fi_Interface_Spritesheet-01_7
+    21300016: Sci_Fi_Interface_Spritesheet-01_8
+    21300018: Sci_Fi_Interface_Spritesheet-01_9
+    21300020: Sci_Fi_Interface_Spritesheet-01_10
+    21300022: Sci_Fi_Interface_Spritesheet-01_11
+    21300024: Sci_Fi_Interface_Spritesheet-01_12
+    21300026: Sci_Fi_Interface_Spritesheet-01_13
+    21300028: Sci_Fi_Interface_Spritesheet-01_14
+    21300030: Sci_Fi_Interface_Spritesheet-01_15
+    21300032: Sci_Fi_Interface_Spritesheet-01_16
+    21300034: Sci_Fi_Interface_Spritesheet-01_17
+    21300036: Sci_Fi_Interface_Spritesheet-01_18
+    21300038: Sci_Fi_Interface_Spritesheet-01_19
+    21300040: Sci_Fi_Interface_Spritesheet-01_20
+    21300042: Sci_Fi_Interface_Spritesheet-01_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sci_Fi_Interface_Spritesheet-01_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2018
+        width: 1610
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_1
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2018
+        width: 1608
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_2
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 2176
+        width: 748
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_3
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 2176
+        width: 756
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1328
+        width: 1000
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_5
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1331
+        width: 996
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_6
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1831
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_7
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 1820
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_8
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 1687
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_9
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 1679
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 641
+        width: 1261
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_11
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 641
+        width: 1259
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_12
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 971
+        width: 433
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_13
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 974
+        width: 430
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_14
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 1008
+        width: 355
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_15
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 1015
+        width: 320
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_16
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 1005
+        width: 323
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 102
+        width: 1001
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 102
+        width: 1003
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_19
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 102
+        width: 1003
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_20
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 193
+        width: 922
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sci_Fi_Interface_Spritesheet-01_21
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 195
+        width: 920
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
