@@ -6,6 +6,7 @@ public class PlayMovie : MonoBehaviour
 	private float _screenHeight;
 	private float _screenWidth;
 	[SerializeField] private MovieTexture _movieTexture;
+	[SerializeField] private GameObject _HUD;
 
 	void Start () 
 	{
@@ -23,6 +24,7 @@ public class PlayMovie : MonoBehaviour
 	{
 		if (_movieTexture.isPlaying == false) 
 		{
+			_HUD.SetActive(true);
 			Destroy(gameObject);
 		}
 	}	

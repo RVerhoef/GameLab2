@@ -1,0 +1,31 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA NVS 5200M    (ID=0xdfc)
+    Vendor:   NVIDIA
+    VRAM:     977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rob\Desktop\GameLab2\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rob\Desktop\GameLab2\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rob\Desktop\GameLab2\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rob\Desktop\GameLab2\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rob\Desktop\GameLab2\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rob\Desktop\GameLab2\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Rob\Desktop\GameLab2\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rob\Desktop\GameLab2\game_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 127c -> priority: 1 
+Device 0 not found - you have 0 devices available
+ 
+(Filename:  Line: 1436)
+
+Error capturing camera feed. Maybe the camera has been disconnected?
+ 
+(Filename:  Line: 100)
+
